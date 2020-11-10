@@ -1,0 +1,5 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/2020db?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("69bce598-cf2f-42dc-ae65-2670449835f4") }
+MongoDB server version: 4.4.1
+{ "nRemoved" : 123 }
